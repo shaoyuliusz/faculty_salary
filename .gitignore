@@ -1,4 +1,7 @@
-# Byte-compiled / optimized / DLL files
+
+**/salary_data	
+
+# Byte-compertled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
